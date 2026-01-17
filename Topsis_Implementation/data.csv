@@ -1,0 +1,11 @@
+"MedID","Med_Name","Company","Manf_year","Exp_date","Quantity_in_stock","Sales"
+1,"Paracetamol","Cipla",2019,2024,500,15000
+2,"Crocin","SunPharma",2020,2025,300,18000
+3,"Dolo650","Cipla",2021,2026,450,20000
+4,"Azithral","DrReddy",2020,2025,250,17000
+5,"Cetrizine","Cipla",2019,2023,350,16000
+6,"Amoxicillin","SunPharma",2021,2026,400,22000
+7,"Disprin","GSK",2018,2023,200,12000
+8,"Calpol","GSK",2020,2024,300,15000
+9,"Metformin","DrReddy",2021,2026,450,21000
+10,"Zincovit","Cipla",2022,2027,250,19000
