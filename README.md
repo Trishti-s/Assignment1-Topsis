@@ -19,7 +19,7 @@ python topsis.py <InputDataFile> <Weights> <Impacts> <OutputResultFileName>
 Example:
 
 ```bash
-python topsis.py data.csv "1,1,1,2" "+,+,-,+" output-result.csv
+python topsis.py data.csv "1,1,1,1,2" "+,+,-,+,+" output-result.csv
 ```
 
 **Features:**
