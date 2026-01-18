@@ -68,16 +68,6 @@ pip install Topsis-Trishti-102313056
 * **Libraries:** `numpy`, `pandas`, `flask`, `smtplib`
 ---
 
-## Key Learnings
-
-* Implementing **TOPSIS methodology** for multi-criteria decisions.
-* Handling **file validation and command-line arguments**.
-* Creating and uploading a **Python package**.
-* Developing a **web service with email output**.
-
----
-
-
 ## Screenshot of Interface
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c5894a1a-9d86-49a8-a6af-ed5c7ffb140c" />
