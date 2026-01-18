@@ -58,10 +58,7 @@ pip install Topsis-Trishti-102313056
 
 **Output:** CSV containing:
 
-| Alternative | TOPSIS Score | Rank |
-| ----------- | ------------ | ---- |
-| A1          | 0.78         | 1    |
-| A2          | 0.42         | 2    |
+<img width="678" height="438" alt="image" src="https://github.com/user-attachments/assets/274e59dc-dcd7-4dda-9670-2ea5198875c7" />
 
 ---
 
