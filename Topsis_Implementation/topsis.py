@@ -21,7 +21,7 @@ if data.shape[1] < 3:
     print("Error: File must contain at least 3 columns")
     sys.exit(1)
 
-criteria = data[['Manf_year', 'Exp_date', 'Quantity_in_stock', 'Sales']]
+criteria = data.iloc[:, 1:].astype(float)
 
 try:
     matrix = criteria.astype(float).values
